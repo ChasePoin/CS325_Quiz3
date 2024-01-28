@@ -9,3 +9,4 @@ bye = "bye"
 
 for i in range(7):
     print(bye*i)
+    print("farewell"*i)
